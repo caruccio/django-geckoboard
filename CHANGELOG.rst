@@ -39,7 +39,7 @@ Version 1.2.2
 
 Version 1.2.1
 -------------
-* Fix unicode handling (Éric St-Jean)
+* Fix unicode handling (Eric St-Jean)
 
 Version 1.2.0
 -------------
